@@ -130,7 +130,7 @@ def unique():
 unique()
 
 print('		Welcome To Our Tools')
- Approval Tools Finish 
+ #Approval Tools Finish 
 
 def ipt(): # IP Tracker Tools
 	ip= input('\033[0;1m \033[1;32mEnter Your Target IP : ')
