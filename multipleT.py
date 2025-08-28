@@ -71,7 +71,7 @@ ab= (""" \033[1;36m
 		
 \033[1;32m===================================================\033[1;0m
 \033[1;35m
-Developer 		: MOHAMMAD ARAFAT
+Developer 	: MOHAMMAD ARAFAT
 Tools Name	: MULTIPLE TOOLS
 Tools Version 	: Premium (5.5)
 Method 		: Paid
@@ -218,7 +218,7 @@ def encript(): #File Encryption Tools
 	
 	new= open(out, 'w')
 	
-	new.write("import marshal\n exec(marshal.loads({repr(comp)}))")
+	new.write("import marshal\nexec(marshal.loads({repr(comp)}))")
 	
 	print('\033[0;95mYour File Encrypt Successful ')
 
