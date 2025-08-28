@@ -98,7 +98,7 @@ while True:
 		os.system('xdg-open https://www.facebook.com/Mohammad.Arafat.SCFB')
 		sys.exit()
 		
- Paid/Approval Tools ⬇️
+ #Paid/Approval Tools ⬇️
 import uuid, os, requests, sys
 
 def unique():
